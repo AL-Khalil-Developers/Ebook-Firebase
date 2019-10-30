@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="34.0dip"
+    android:background="@drawable/gridbackgroundimg">
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="auto_fit"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="10dp"
+       android:layout_above="@+id/bnradd1"/>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/bnradd1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="SMART_BANNER"
+        ads:adUnitId="@string/bannerad"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white2">#F5F2F2</color>
+    <color name="ActionBar">#495757</color>
+    <color name="brown">#A16909</color>
+    <color name="blue">#0D5CAB</color>
+    <color name="green">#16480F</color>
+    <color name="proundcsolid">#2b2b2b</color>
+    <color name="proundcstroke">#242424</color>
+    <color name="gradientbg">#B6FAB3</color>
+    <color name="green1">#115F15</color>
+    <color name="green2">#399A3E</color>
+    <color name="green3">#3ADF42</color>
+    <color name="playerbg">#4a4a4a</color>
+    <color name="ligray">#E3E8E3</color>
+    <color name="librown">#EBDBAD</color>
+    <color name="yellow">#F7FE2E</color>
+    <color name="rowcolor">#a56331</color>
+</resources>

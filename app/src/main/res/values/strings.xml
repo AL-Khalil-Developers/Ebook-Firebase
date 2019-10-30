@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">E-Books With Firebase</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bannerad">ca-app-pub-3940256099942544/6300978111</string> <!-- Replace with yuor own admob ID -->
+    <string name="intstial">ca-app-pub-3940256099942544/1033173712</string> <!-- Replace with yuor own admob ID -->
+    <string name="admbintialize">ca-app-pub-3940256099942544~3347511713</string> <!-- Replace with yuor own admob ID -->
+    <string name="next">Next</string>
+    <string name="privious">Privious</string>
+    <string name="bookmark">BookMark</string>
+</resources>

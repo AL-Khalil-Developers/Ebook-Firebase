@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120408151082",
+    "firebase_url": "https://ebook-firebase-d3849.firebaseio.com",
+    "project_id": "ebook-firebase-d3849",
+    "storage_bucket": "ebook-firebase-d3849.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120408151082:android:75bf34ccdd557697c85f53",
+        "android_client_info": {
+          "package_name": "com.codecan.e_bookswithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120408151082-eq8j63etrgahdqbvm06nu0raq0fnd3b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codecan.e_bookswithfirebase",
+            "certificate_hash": "f8fa5e62e765e498300e75a32b316e4ec317915d"
+          }
+        },
+        {
+          "client_id": "120408151082-n2ht59tpcg5dh6m2q7ecp275kd3bg80u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5l-UJ3uThD2BYxZ4CI7lZQPvJe7OoouY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120408151082-n2ht59tpcg5dh6m2q7ecp275kd3bg80u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

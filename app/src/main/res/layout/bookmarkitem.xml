@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/buttonbar"
+    android:orientation="horizontal"
+    android:padding="5dip">
+    <Button android:layout_width="65dip"
+        android:layout_height="35dip"
+        android:id="@+id/bdelete"
+        android:text="Delete"
+        android:background="@drawable/bookmarkbutton"
+        android:textColor="@color/white"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:textStyle="bold" />
+    <LinearLayout android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="3dip"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="5dip">
+        <ImageView android:layout_width="35dip"
+            android:layout_height="35dip"
+            android:src="@mipmap/ic_launcher_round"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/bookmarkitempage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:typeface="sans"
+        android:textSize="14sp"
+        android:layout_centerVertical="true"
+        android:paddingLeft="55dp"
+        android:textStyle="bold"/>
+
+</RelativeLayout>
